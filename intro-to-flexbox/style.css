@@ -33,3 +33,7 @@ h3 {
   flex: 1;
   margin: 10px;
 }
+
+.item-double {
+  flex: 2;
+}
